@@ -1,5 +1,0 @@
-if(EXISTS "C:/Users/rapha/source/repos/CMakeProject1/out/build/x64-Debug (default)/tests/test_MyApp[1]_tests.cmake")
-  include("C:/Users/rapha/source/repos/CMakeProject1/out/build/x64-Debug (default)/tests/test_MyApp[1]_tests.cmake")
-else()
-  add_test(test_MyApp_NOT_BUILT test_MyApp_NOT_BUILT)
-endif()
